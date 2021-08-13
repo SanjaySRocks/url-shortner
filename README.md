@@ -7,4 +7,5 @@ I have used firebase for backend storage and material ui for frontend. Minimal D
 
 ### Install
 ```npm install```
+
 ```npm start```
